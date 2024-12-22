@@ -3,7 +3,6 @@
 
 - 👨‍💻 Full-Stack Developer based in Rudrapur, India.
 - 📫 How to reach me: [ankitbisht9837@gmail.com](ankitbisht9837@gmail.com)
-- ⭐ Star-studded projects like [Flipkart](https://github.com/jigar-sable/flipkart-mern) and [Instagram](https://github.com/jigar-sable/instagram-mern), shining bright with **800+ stars**
 - 🔗 Rocking a cool **500+ connections** on LinkedIn, let's connect!
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://jigarsable.vercel.app)! 💻❤️
 
@@ -12,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ankitb-webd9905/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ankitbisht9837@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/ankitbisht020"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://peerlist.io/jigar"><img alt="Telegram" src="https://github-readme-badge.peerlist.io/api/jigar" /></a>
+<img alt="Telegram" src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
 </div>
 
 <h3 align="left">🚀 Tech Stack:</h3>
