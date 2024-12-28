@@ -4,7 +4,7 @@
 - 👨‍💻 Full-Stack Developer based in Rudrapur, India.
 - 📫 How to reach me: [ankitbisht9837@gmail.com](ankitbisht9837@gmail.com)
 - 🔗 Rocking a cool **500+ connections** on LinkedIn, let's connect!
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://jigarsable.vercel.app)! 💻❤️
+- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](//https://jigarsable.vercel.app)! 💻❤️
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
