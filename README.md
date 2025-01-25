@@ -54,6 +54,6 @@
   </tr>
 </table>
 
-<div align="center">
+<!--<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbisht020&theme=dark" alt="ankit-bisht" /></p>
-  </div>
+  </div> -->
