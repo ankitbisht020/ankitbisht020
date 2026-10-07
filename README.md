@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I'm <a href="https://portfoliyo-2v6m.vercel.app/" target="_blank"> Ankit Bisht </a></h1>
 <!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
 
-- 👨‍💻 Full-Stack Developer based in Rudrapur, India.
+- 👨‍💻 Full-Stack Developer based in Gurugram, India.
 - 📫 How to reach me: [ankitbisht9837@gmail.com](ankitbisht9837@gmail.com)
 - 🔗 Rocking a cool **500+ connections** on LinkedIn, let's connect!
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](//https://portfoliyo-2v6m.vercel.app/)! 💻❤️
