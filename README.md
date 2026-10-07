@@ -1,58 +1,82 @@
-<h1 align="left">👋 Hi, I'm <a href="https://portfoliyo-2v6m.vercel.app/" target="_blank"> Ankit Bisht </a></h1>
-<!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
+<h1 align="left">Hi, I'm <a href="https://portfoliyo-2v6m.vercel.app/" target="_blank">Ankit Bisht</a> 👋</h1>
 
-- 👨‍💻 Full-Stack Developer based in Gurugram, India.
-- 📫 How to reach me: [ankitbisht9837@gmail.com](ankitbisht9837@gmail.com)
-- 🔗 Rocking a cool **500+ connections** on LinkedIn, let's connect!
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](//https://portfoliyo-2v6m.vercel.app/)! 💻❤️
+**Backend-focused Full Stack Developer** · SDE I at **Razorpod**, Gurugram
 
-<h3 align="left">📲 Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ankitb-webd9905/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankitbisht9837@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/ankitbisht020" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
+I build scalable REST APIs, real-time systems and microservices with **Node.js, TypeScript, NestJS, PostgreSQL and Redis**, and ship them on Docker + AWS.
 
-<h3 align="left">🚀 Tech Stack:</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<!-- <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>  -->
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+- ⚡ Cut API latency by **35%** with Redis caching and async processing
+- 🗄️ Reduced PostgreSQL query response time by **40%** through query tuning
+- 🔍 Built search infrastructure with **Typesense** and **Elasticsearch**
+- 🤖 Built an in-house **RAG system** (Mistral-7B + OCR, GPT fallback)
+- 🚀 30+ REST APIs and 15+ production features shipped
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[RetailFront](#)** | Multi-tenant retail platform: organizations → retailers → stores → products/variants, with catalog, inventory, pricing, orders and cross-tenant RBAC | NestJS, TypeScript, PostgreSQL, TypeORM, Redis, BullMQ, Typesense |
+| **Nexra.ai** | In-house RAG system: Mistral-7B-Instruct, OCR to extract info from images, GPT API as fallback | Python, Mistral-7B, OCR, OpenAI API |
+| **Golfmerce** | Marketplace for buyers and vendors with 20+ APIs for products, payments and orders; real-time notifications | Node.js, React, Elasticsearch, Redis, WebSockets, AWS |
+| **Navambhaw** | Astrology consultation platform with concurrent chat and call sessions | WebRTC, Socket.IO, React |
+| **[khadustream](#)** | Desktop live-streaming studio that streams to YouTube | Electron |
+
+<!-- Replace (#) with repo links. Remove links for private/company projects. -->
+
+---
+
+### 🧰 Tech Stack
+
+**Backend**
 <br>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
-</div>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge"/>
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
-<!-- <h3 align="left">Languages :</h3>
-<div align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</div> -->
+**Databases & Search**
+<br>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img alt="Typesense" src="https://img.shields.io/badge/Typesense-D52E63?style=for-the-badge"/>
 
+**Real-time**
+<br>
+<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
 
-<h3 align="left">🗄️ Databases:</h3>
-<div align="left">
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
+**Frontend**
+<br>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-<h3 align="left">📊 GitHub Activity:</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ankitbisht020&show_icons=true&theme=dark&locale=en" alt="Ankit Bisht" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitbisht020&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ankit Bisht" /></td>
-  </tr>
-</table>
+**Cloud & DevOps**
+<br>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<!--<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbisht020&theme=dark" alt="ankit-bisht" /></p>
-  </div> -->
+---
+
+### 📫 Reach me
+
+<a href="https://www.linkedin.com/in/ankitb-webd9905/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ankitbisht9837@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfoliyo-2v6m.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+💼 Open to backend / full-stack engineering conversations.
+
+<!--
+Optional GitHub stats. The public vercel instance is often rate-limited and shows broken images.
+If you keep it, deploy your own copy of github-readme-stats and use that URL instead.
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankitbisht020&show_icons=true&theme=dark" alt="GitHub stats" />
+-->
