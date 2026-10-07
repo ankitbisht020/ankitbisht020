@@ -18,8 +18,8 @@ I build scalable REST APIs, real-time systems and microservices with **Node.js, 
 |---|---|---|
 | **[RetailFront](#)** | Multi-tenant retail platform: organizations → retailers → stores → products/variants, with catalog, inventory, pricing, orders and cross-tenant RBAC | NestJS, TypeScript, PostgreSQL, TypeORM, Redis, BullMQ, Typesense |
 | **Nexra.ai** | In-house RAG system: Mistral-7B-Instruct, OCR to extract info from images, GPT API as fallback | Python, Mistral-7B, OCR, OpenAI API |
-| **Golfmerce** | Marketplace for buyers and vendors with 20+ APIs for products, payments and orders; real-time notifications | Node.js, React, Elasticsearch, Redis, WebSockets, AWS |
-| **Navambhaw** | Astrology consultation platform with concurrent chat and call sessions | WebRTC, Socket.IO, React |
+| **[Golfmerce](https://www.golfmerce.com/)** | Marketplace for buyers and vendors with 20+ APIs for products, payments and orders; real-time notifications | Node.js, React, Elasticsearch, Redis, WebSockets, AWS |
+| **[Navambhaw](https://navambhaw.com/)** | Astrology consultation platform with concurrent chat and call sessions | WebRTC, Socket.IO, React |
 | **[khadustream](#)** | Desktop live-streaming studio that streams to YouTube | Electron |
 
 <!-- Replace (#) with repo links. Remove links for private/company projects. -->
